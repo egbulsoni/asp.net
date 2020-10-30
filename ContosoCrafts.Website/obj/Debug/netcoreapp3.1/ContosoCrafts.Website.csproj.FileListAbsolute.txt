@@ -35,3 +35,7 @@ C:\Users\eduardo\source\repos\ContosoCrafts\ContosoCrafts.Website\obj\Debug\netc
 C:\Users\eduardo\source\repos\ContosoCrafts\ContosoCrafts.Website\obj\Debug\netcoreapp3.1\ContosoCrafts.Website.pdb
 C:\Users\eduardo\source\repos\ContosoCrafts\ContosoCrafts.Website\obj\Debug\netcoreapp3.1\ContosoCrafts.Website.genruntimeconfig.cache
 C:\Users\eduardo\source\repos\ContosoCrafts\ContosoCrafts.Website\obj\Debug\netcoreapp3.1\ContosoCrafts.Website.csproj.CopyComplete
+C:\Users\eduardo\source\repos\ContosoCrafts\ContosoCrafts.Website\obj\Debug\netcoreapp3.1\ContosoCrafts.Website.RazorComponent.input.cache
+C:\Users\eduardo\source\repos\ContosoCrafts\ContosoCrafts.Website\obj\Debug\netcoreapp3.1\RazorDeclaration\Components\ProductList.razor.g.cs
+C:\Users\eduardo\source\repos\ContosoCrafts\ContosoCrafts.Website\obj\Debug\netcoreapp3.1\RazorDeclaration\ContosoCrafts.Website.dll
+C:\Users\eduardo\source\repos\ContosoCrafts\ContosoCrafts.Website\obj\Debug\netcoreapp3.1\Razor\Components\ProductList.razor.g.cs

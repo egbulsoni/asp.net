@@ -5,6 +5,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Models - Copy\**" />
+    <Content Remove="Models - Copy\**" />
+    <EmbeddedResource Remove="Models - Copy\**" />
+    <None Remove="Models - Copy\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Folder Include="wwwroot\data\" />
   </ItemGroup>
 
